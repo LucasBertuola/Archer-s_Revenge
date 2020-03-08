@@ -1,0 +1,6479 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MinotaurAttack1
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern (5)/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern (4)/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern (3)/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern (2)/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern (1)/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0 (12)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0 (11)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0 (10)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0 (9)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0 (8)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0 (7)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0 (6)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0 (5)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0 (3)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0 (1)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (5)/Espeto de pedra_0
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0 (12)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0 (11)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0 (10)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0 (9)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0 (8)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0 (7)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0 (6)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0 (5)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0 (3)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0 (1)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (4)/Espeto de pedra_0
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0 (12)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0 (11)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0 (10)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0 (9)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0 (8)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0 (7)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0 (6)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0 (5)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0 (3)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0 (1)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (3)/Espeto de pedra_0
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0 (12)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0 (11)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0 (10)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0 (9)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0 (8)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0 (7)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0 (6)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0 (5)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0 (3)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0 (1)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (2)/Espeto de pedra_0
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0 (12)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0 (11)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0 (10)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0 (9)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0 (8)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0 (7)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0 (6)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0 (5)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0 (3)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0 (1)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern (1)/Espeto de pedra_0
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0 (12)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0 (11)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0 (10)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0 (9)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0 (8)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0 (7)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0 (6)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0 (5)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0 (3)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0 (1)
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0166667
+      value: {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0333333
+      value: {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.05
+      value: {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - time: 3.0666666
+      value: {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    attribute: m_Sprite
+    path: Pattern/Espeto de pedra_0
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 1580604750
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3889022630
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2093795772
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3308720724
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3561650221
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2354932122
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3055286546
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2637605585
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2217581456
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 805444820
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 689515925
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2927702362
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3080323099
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2629260248
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3404592222
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4175140572
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3119598734
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 328231196
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 951925471
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 564530078
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2972154355
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2822523058
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 799298685
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 918512956
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 496121599
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1271435641
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2046751739
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3700848584
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3720385972
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4142777975
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4025939766
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2151632516
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2569306053
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 515662602
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 128406091
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 747241864
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2060494350
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1223083148
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1037226331
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2018182586
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1399215737
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1249732408
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 18492323
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 402725602
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2677605933
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2256680812
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2913952943
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4227187497
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3385041323
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1488316957
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1302770665
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1720442922
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2140197227
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1493467787
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1075819466
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3347558149
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3734806084
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4122070407
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2750114305
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2447181955
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4145850327
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4235455097
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3613309370
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3460663547
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2276734640
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2662270961
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 423041854
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2894463
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 721516988
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2103172666
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1332591800
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3595903360
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3055286546
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2637605585
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2217581456
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 805444820
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 689515925
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2927702362
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3080323099
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2629260248
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3404592222
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4175140572
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3119598734
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 328231196
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 951925471
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 564530078
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2972154355
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2822523058
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 799298685
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 918512956
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 496121599
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1271435641
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2046751739
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3700848584
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3720385972
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4142777975
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4025939766
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2151632516
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2569306053
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 515662602
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 128406091
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 747241864
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2060494350
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1223083148
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1037226331
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2018182586
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1399215737
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1249732408
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 18492323
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 402725602
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2677605933
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2256680812
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2913952943
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4227187497
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3385041323
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1488316957
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1302770665
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1720442922
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2140197227
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1493467787
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1075819466
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3347558149
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3734806084
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4122070407
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2750114305
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2447181955
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4145850327
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4235455097
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3613309370
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3460663547
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2276734640
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2662270961
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 423041854
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2894463
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 721516988
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2103172666
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1332591800
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3595903360
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300000, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300002, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300004, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300006, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+    - {fileID: 21300008, guid: e6542bf3fff030e438dcfa0964689afa, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 4
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern (5)/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern (4)/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern (3)/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern (2)/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern (1)/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Pattern/RedRectangle
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (5)/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (4)/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (3)/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (2)/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern (1)/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (12)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (11)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (10)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (9)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (8)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (7)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (6)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (5)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (3)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0 (1)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Pattern/Espeto de pedra_0
+    classID: 1
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

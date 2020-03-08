@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: f4672a2c2f2ccf24f91de4d85ba14692
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: "Assets Cen\xE1rio Minotauro_0"
+  - first:
+      213: 21300002
+    second: "Assets Cen\xE1rio Minotauro_1"
+  - first:
+      213: 21300004
+    second: "Assets Cen\xE1rio Minotauro_2"
+  - first:
+      213: 21300006
+    second: "Assets Cen\xE1rio Minotauro_3"
+  - first:
+      213: 21300008
+    second: "Assets Cen\xE1rio Minotauro_5"
+  - first:
+      213: 21300010
+    second: "Assets Cen\xE1rio Minotauro_6"
+  - first:
+      213: 21300012
+    second: "Assets Cen\xE1rio Minotauro_7"
+  - first:
+      213: 21300014
+    second: "Assets Cen\xE1rio Minotauro_8"
+  - first:
+      213: 21300016
+    second: "Assets Cen\xE1rio Minotauro_9"
+  - first:
+      213: 21300018
+    second: "Assets Cen\xE1rio Minotauro_10"
+  - first:
+      213: 21300020
+    second: "Assets Cen\xE1rio Minotauro_19"
+  - first:
+      213: 21300022
+    second: "Assets Cen\xE1rio Minotauro_25"
+  - first:
+      213: 21300024
+    second: "Assets Cen\xE1rio Minotauro_28"
+  - first:
+      213: 21300026
+    second: "Assets Cen\xE1rio Minotauro_47"
+  - first:
+      213: 21300028
+    second: "Assets Cen\xE1rio Minotauro_48"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_0"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1811
+        width: 1052
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 298, y: 0, z: 289, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd79291f4c55014db6c9ed80b9fd748
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_1"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1206
+        width: 753
+        height: 755
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 3, z: 4, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d5da5f1448e742a0a4e5b903f15fb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_2"
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1402
+        width: 157
+        height: 281
+      alignment: 9
+      pivot: {x: 0.46914887, y: 0.09123778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21aac57c0aa31d439db64aac4a5a43e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_3"
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1403
+        width: 141
+        height: 302
+      alignment: 9
+      pivot: {x: 0.45583305, y: 0.09904106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44edeb7c18d8e04696cedf607769c18
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_5"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1478
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f97d9cb33d1f4647a04e95ea11d4001
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_6"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1476
+        width: 41
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c10be4f7fff71b4da3b5781e143d86d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_7"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1398
+        width: 176
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5393146, y: 0.084228516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca45a916d60dea8429349a022f47ae6d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_8"
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1403
+        width: 164
+        height: 337
+      alignment: 9
+      pivot: {x: 0.4367125, y: 0.07703325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ac12ba9b0b468469a3e2ddce57e15a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_9"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 584
+        height: 1353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8b5b10c13ad7a43a088316aa26941a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_10"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 978
+        width: 179
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0865a3ce6732943bbb5315182e7cc5
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_19"
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 858
+        width: 201
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f253e17b749274c87fd0ae44df77a9
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_25"
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 862
+        width: 185
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f70f12c5a611646ae9a5afa0d38757
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_28"
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 881
+        width: 177
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0ebc5792e3afc41a1796d286d44657
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_47"
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 16
+        width: 200
+        height: 808
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbbf954ed052c548a3f5041b5200da2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Assets Cen\xE1rio Minotauro_48"
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 12
+        width: 885
+        height: 812
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca8ba1934071b42a692f2c02ca1868
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 33261e9efc81f1348a35c807643ec4d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
