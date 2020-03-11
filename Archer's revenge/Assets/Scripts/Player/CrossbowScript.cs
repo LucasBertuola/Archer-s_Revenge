@@ -14,6 +14,10 @@ public class CrossbowScript : MonoBehaviour {
     public float boltCD = 0;
     public float fireDelay = 0.5f;
 
+    public bool joystick = true;
+
+    public Transform cursor;
+    
     void Start()
     {
         source = GetComponent<AudioSource>();
@@ -40,11 +44,27 @@ public class CrossbowScript : MonoBehaviour {
 
         boltCD -= Time.deltaTime;
 
-        Vector3 difference = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+        Vector3 target = new Vector2(0,0) ;
+
+        //Keyboard
+        if (!joystick)
+        {
+             target = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+        }
+
+
+        //Joystick
+        if (joystick)
+        {
+             target = cursor.position -transform.position;
+        }
+
+
+        Vector3 difference = target;
         float rotZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.Euler(0f, 0f, rotZ + offset);
 
-        if (Input.GetMouseButton(0) && boltCD <= 0f)
+        if (Input.GetAxisRaw("Fire1") != 0 && boltCD <= 0f)
         {
             Instantiate(bolt, boltSpawn.position, transform.rotation);
             source.PlayOneShot(shootingSoung);

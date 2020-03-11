@@ -64,7 +64,7 @@ public class PlayerScript : MonoBehaviour {
 
         //Movement
         Vector2 moveInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
-        if (Input.GetButton("Horizontal") || Input.GetButton("Vertical"))
+        if (Input.GetAxisRaw("Horizontal") != 0 || Input.GetAxisRaw("Vertical") != 0)
         {
             animator.SetBool("isWalking", true);
         }
@@ -100,7 +100,7 @@ public class PlayerScript : MonoBehaviour {
         }
 
         dashVel = moveInput.normalized * dashSpeed;
-        if (Input.GetKeyDown(KeyCode.Space) && dashTime <= 0)
+        if (Input.GetAxisRaw("Fire2") != 0 && dashTime <= 0)
         {
             dashTime = startDashTime;
             source.PlayOneShot(dashSound);

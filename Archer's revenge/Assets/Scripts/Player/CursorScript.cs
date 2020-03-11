@@ -4,12 +4,30 @@ using UnityEngine;
 
 public class CursorScript : MonoBehaviour {
 
-	void Start () {
+    public bool joystick = true;
+    public Transform player;
+    float rotat;
+  
+
+    void Start () {
         Cursor.visible = false;
 	}
 	
 	void Update () {
-        Vector2 cursorPoS = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        transform.position = cursorPoS;
+        if (joystick)
+        {
+            transform.position = player.transform.position;
+            rotat = Input.GetAxisRaw("Horizontal2");
+    
+            if (rotat != 0)
+            {
+                transform.Rotate(new Vector3(0, 0, rotat * -5));
+            }
+        }
+        else { 
+            Vector2 cursorPoS = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            transform.position = cursorPoS;
+        }
+        
 	}
 }
