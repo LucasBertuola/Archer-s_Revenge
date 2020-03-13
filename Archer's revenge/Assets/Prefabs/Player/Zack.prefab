@@ -5622,6 +5622,8 @@ MonoBehaviour:
   boltSpawn: {fileID: 4348494700140968}
   boltCD: 0
   fireDelay: 0.5
+  joystick: 1
+  cursor: {fileID: 0}
 --- !u!82 &82633889482150480
 AudioSource:
   m_ObjectHideFlags: 0

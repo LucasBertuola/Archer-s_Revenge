@@ -6,7 +6,7 @@ public class CursorScript : MonoBehaviour {
 
     public bool joystick = true;
     public Transform player;
-    float rotat;
+    Vector3 last;
   
 
     void Start () {
@@ -16,13 +16,18 @@ public class CursorScript : MonoBehaviour {
 	void Update () {
         if (joystick)
         {
-            transform.position = player.transform.position;
-            rotat = Input.GetAxisRaw("Horizontal2");
-    
-            if (rotat != 0)
+            if(player != null)
             {
-                transform.Rotate(new Vector3(0, 0, rotat * -5));
+                transform.position = player.transform.position;
+
+                if(Input.GetAxis("Vertical2") == 0 && Input.GetAxis("Horizontal2") == 0)
+                    transform.eulerAngles = last;
+                else
+                    last = new Vector3(0, 0, Mathf.Atan2(Input.GetAxis("Horizontal2"), Input.GetAxis("Vertical2")) * 180 / Mathf.PI);
+
+                transform.eulerAngles = last;
             }
+         
         }
         else { 
             Vector2 cursorPoS = Camera.main.ScreenToWorldPoint(Input.mousePosition);

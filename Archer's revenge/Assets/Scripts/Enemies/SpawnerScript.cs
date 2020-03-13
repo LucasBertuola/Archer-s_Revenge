@@ -20,18 +20,21 @@ public class SpawnerScript : MonoBehaviour {
     }
 
     void Update () {
-        if (Vector2.Distance(transform.position, Player.position) >= minDistanceY
-            && Vector2.Distance(transform.position, Player.position) <= maxDistanceY &&
-            spawnTimer <= 0 && GameManager.Instance.enemyCount < 20)
+        if (Player != null)
         {
-            enemy = Random.Range(0, enemies.Length);
-            Instantiate(enemies[enemy], transform.position, Quaternion.identity);
-            spawnTimer = startSpawnTimer;
-            GameManager.Instance.enemyCount += 1;
-        }
-        else
-        {
-            spawnTimer -= Time.deltaTime;
+            if (Vector2.Distance(transform.position, Player.position) >= minDistanceY
+                && Vector2.Distance(transform.position, Player.position) <= maxDistanceY &&
+                spawnTimer <= 0 && GameManager.Instance.enemyCount < 20)
+            {
+                enemy = Random.Range(0, enemies.Length);
+                Instantiate(enemies[enemy], transform.position, Quaternion.identity);
+                spawnTimer = startSpawnTimer;
+                GameManager.Instance.enemyCount += 1;
+            }
+            else
+            {
+                spawnTimer -= Time.deltaTime;
+            }
         }
     }
 }

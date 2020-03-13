@@ -64,7 +64,8 @@ public class CrossbowScript : MonoBehaviour {
         float rotZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.Euler(0f, 0f, rotZ + offset);
 
-        if (Input.GetAxisRaw("Fire1") != 0 && boltCD <= 0f)
+
+        if (Input.GetAxisRaw("Fire1") == 1 && boltCD <= 0f)
         {
             Instantiate(bolt, boltSpawn.position, transform.rotation);
             source.PlayOneShot(shootingSoung);

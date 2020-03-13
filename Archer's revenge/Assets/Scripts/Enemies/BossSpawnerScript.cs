@@ -23,18 +23,21 @@ public class BossSpawnerScript : MonoBehaviour
 
     void Update()
     {
-        if (Vector2.Distance(transform.position, Player.position) >= minDistanceY
-            && Vector2.Distance(transform.position, Player.position) <= maxDistanceY &&
-            spawnTimer <= 0 && GameManager.Instance.minotaur2ndFase == true)
+        if (Player != null)
         {
-            enemy = Random.Range(0, enemies.Length);
-            Instantiate(spawnEffect, transform.position, Quaternion.identity);
-            Instantiate(enemies[enemy], transform.position, Quaternion.identity);
-            spawnTimer = startSpawnTimer;
-        }
-        else
-        {
-            spawnTimer -= Time.deltaTime;
+            if (Vector2.Distance(transform.position, Player.position) >= minDistanceY
+                && Vector2.Distance(transform.position, Player.position) <= maxDistanceY &&
+                spawnTimer <= 0 && GameManager.Instance.minotaur2ndFase == true)
+            {
+                enemy = Random.Range(0, enemies.Length);
+                Instantiate(spawnEffect, transform.position, Quaternion.identity);
+                Instantiate(enemies[enemy], transform.position, Quaternion.identity);
+                spawnTimer = startSpawnTimer;
+            }
+            else
+            {
+                spawnTimer -= Time.deltaTime;
+            }
         }
     }
 }

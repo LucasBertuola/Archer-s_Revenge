@@ -39,58 +39,60 @@ public class EnemyScript : MonoBehaviour {
 
 	void Update ()
     {
-
-        //Aggro range
-        if (Vector2.Distance(transform.position, playerPos.position) < aggroDistance)
+        if (playerScript != null)
         {
-            isAggroed = true;
-        }
-        else if (Vector2.Distance(transform.position, playerPos.position) > disengageDistance)
-        {
-            isAggroed = false;
-        }
-
-        Vector2 enemyScale = transform.localScale;
-
-        if (playerPos.position.x > gameObject.transform.position.x)
-        {
-            enemyScale.x = 1;
-            transform.localScale = enemyScale;
-        }
-        else
-        {
-            enemyScale.x = -1;
-            transform.localScale = enemyScale;
-        }
-
-        transform.position = Vector2.MoveTowards(transform.position, playerPos.position, speed * Time.deltaTime);
-        if (isAggroed)
-        {
-            animator.SetBool("isWalking", true);
-        }
-        else
-        {
-            animator.SetBool("isWalking", false);
-        }
-        
-        
-
-        if (health <= 0)
-        {
-            lootChance = Random.Range(0, 100);
-            GameManager.Instance.enemyKillCount -= 1;
-            GameManager.Instance.enemyCount -= 1;
-            if (lootChance >= 90)
+            //Aggro range
+            if (Vector2.Distance(transform.position, playerPos.position) < aggroDistance)
             {
-                Instantiate(healthPotion, transform.position, Quaternion.identity);
+                isAggroed = true;
             }
-            if (GameManager.Instance.enemyKillCount == 0)
+            else if (Vector2.Distance(transform.position, playerPos.position) > disengageDistance)
             {
-                Instantiate(key, transform.position, Quaternion.identity);
+                isAggroed = false;
             }
-            AudioSource.PlayClipAtPoint(deathSound, transform.position);
-            Instantiate(deathEffect, transform.position, Quaternion.identity);
-            Destroy(gameObject);
+
+            Vector2 enemyScale = transform.localScale;
+
+            if (playerPos.position.x > gameObject.transform.position.x)
+            {
+                enemyScale.x = 1;
+                transform.localScale = enemyScale;
+            }
+            else
+            {
+                enemyScale.x = -1;
+                transform.localScale = enemyScale;
+            }
+
+            transform.position = Vector2.MoveTowards(transform.position, playerPos.position, speed * Time.deltaTime);
+            if (isAggroed)
+            {
+                animator.SetBool("isWalking", true);
+            }
+            else
+            {
+                animator.SetBool("isWalking", false);
+            }
+
+
+
+            if (health <= 0)
+            {
+                lootChance = Random.Range(0, 100);
+                GameManager.Instance.enemyKillCount -= 1;
+                GameManager.Instance.enemyCount -= 1;
+                if (lootChance >= 90)
+                {
+                    Instantiate(healthPotion, transform.position, Quaternion.identity);
+                }
+                if (GameManager.Instance.enemyKillCount == 0)
+                {
+                    Instantiate(key, transform.position, Quaternion.identity);
+                }
+                AudioSource.PlayClipAtPoint(deathSound, transform.position);
+                Instantiate(deathEffect, transform.position, Quaternion.identity);
+                Destroy(gameObject);
+            }
         }
 	}
 
