@@ -64,37 +64,49 @@ public class EnemyScript : MonoBehaviour {
                 transform.localScale = enemyScale;
             }
 
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, transform.up * 3);
+
+            if (hit.collider.tag == "Objects")
+            {
+                transform.Translate(transform.right * Time.deltaTime);
+            }
+
             transform.position = Vector2.MoveTowards(transform.position, playerPos.position, speed * Time.deltaTime);
+
+            //Animation
             if (isAggroed)
-            {
-                animator.SetBool("isWalking", true);
-            }
+               animator.SetBool("isWalking", true);
             else
-            {
                 animator.SetBool("isWalking", false);
-            }
+            
 
 
-
+            //Die
             if (health <= 0)
             {
-                lootChance = Random.Range(0, 100);
-                GameManager.Instance.enemyKillCount -= 1;
-                GameManager.Instance.enemyCount -= 1;
-                if (lootChance >= 90)
-                {
-                    Instantiate(healthPotion, transform.position, Quaternion.identity);
-                }
-                if (GameManager.Instance.enemyKillCount == 0)
-                {
-                    Instantiate(key, transform.position, Quaternion.identity);
-                }
-                AudioSource.PlayClipAtPoint(deathSound, transform.position);
-                Instantiate(deathEffect, transform.position, Quaternion.identity);
-                Destroy(gameObject);
+                Die();
             }
         }
 	}
+
+    public void Die()
+    {
+        lootChance = Random.Range(0, 100);
+        GameManager.Instance.enemyKillCount -= 1;
+        GameManager.Instance.enemyCount -= 1;
+        if (lootChance >= 90)
+        {
+            Instantiate(healthPotion, transform.position, Quaternion.identity);
+        }
+        if (GameManager.Instance.enemyKillCount == 0)
+        {
+            Instantiate(key, transform.position, Quaternion.identity);
+        }
+        AudioSource.PlayClipAtPoint(deathSound, transform.position);
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
+        Destroy(gameObject);
+
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
