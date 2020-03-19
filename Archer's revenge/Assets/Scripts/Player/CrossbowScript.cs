@@ -14,7 +14,7 @@ public class CrossbowScript : MonoBehaviour {
     public float boltCD = 0;
     public float fireDelay = 0.5f;
 
-    public bool joystick = true;
+    public bool joystick;
 
     public Transform cursor;
     
@@ -24,6 +24,8 @@ public class CrossbowScript : MonoBehaviour {
     }
 
     void Update () {
+        joystick = GameManager.Instance.controlindenfy;
+
         Vector2 crossbowScale = transform.localScale;
         Vector2 cursorPos = new Vector2(Input.mousePosition.x, Input.mousePosition.y);
         float worldXPos = Camera.main.ScreenToWorldPoint(cursorPos).x;

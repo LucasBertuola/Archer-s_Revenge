@@ -4,20 +4,24 @@ using UnityEngine;
 
 public class CursorScript : MonoBehaviour {
 
-    public bool joystick = true;
+    public bool joystick;
     public Transform player;
     Vector3 last;
   
 
     void Start () {
         Cursor.visible = false;
-	}
-	
-	void Update () {
+    }
+
+    void Update () {
+        joystick = GameManager.Instance.controlindenfy;
+        Debug.Log(joystick);
         if (joystick)
         {
             if(player != null)
             {
+                GameManager.Instance.DisableAimMouse();
+                Cursor.visible = false;
                 transform.position = player.transform.position;
 
                 if(Input.GetAxis("Vertical2") == 0 && Input.GetAxis("Horizontal2") == 0)
@@ -29,7 +33,9 @@ public class CursorScript : MonoBehaviour {
             }
          
         }
-        else { 
+        else {
+            GameManager.Instance.DisableAimJoystick();
+            Cursor.visible = true;
             Vector2 cursorPoS = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             transform.position = cursorPoS;
         }

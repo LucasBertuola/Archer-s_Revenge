@@ -50,7 +50,9 @@ public class GameManager : MonoBehaviour {
     public Image keyImage;
     public Text killCount;
     public Text keyCount;
-
+    public bool controlindenfy = false;
+    public GameObject aimMouse;
+    public GameObject aimJoystick;
     public void Start()
     {
         minotaur2ndFase = false;
@@ -76,8 +78,24 @@ public class GameManager : MonoBehaviour {
         {
             keyImage.color = Color.gray;
         }
+
     }
 
+    public void DisableAimMouse()
+    {
+        aimJoystick.SetActive(true);
+        aimMouse.SetActive(false);
+        
+    }
+
+    public void DisableAimJoystick()
+    {
+        aimMouse.SetActive(true);
+        aimJoystick.SetActive(false);
+       
+    }
+
+ 
     public void EnterCave()
     {
         cam1.SetActive(false);
