@@ -2038,8 +2038,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5660f98c17378244d81869fdda823dd4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyCount: 200
-  enemyKillCount: 40
+  enemyCount: 100
+  enemyKillCount: 25
   key: 0
   minotaur2ndFase: 0
   cave: {fileID: 1116607165}
@@ -18216,7 +18216,7 @@ PrefabInstance:
     - target: {fileID: 224512111033621062, guid: 1dc47e94bd6395d408fd0c27c822ce9b,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 5.074951
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224512111033621062, guid: 1dc47e94bd6395d408fd0c27c822ce9b,
         type: 3}
@@ -18226,12 +18226,12 @@ PrefabInstance:
     - target: {fileID: 224512111033621062, guid: 1dc47e94bd6395d408fd0c27c822ce9b,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: -10.15
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224512111033621062, guid: 1dc47e94bd6395d408fd0c27c822ce9b,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0.000061035
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224512111033621062, guid: 1dc47e94bd6395d408fd0c27c822ce9b,
         type: 3}
