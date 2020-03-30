@@ -27,6 +27,7 @@ public class PlayerScript : MonoBehaviour {
     public GameObject healEffect;
     private Animator animator;
     public Slider HealthBar;
+
     private AudioSource source;
     public AudioClip[] damageSound;
     public AudioClip dashSound;
@@ -35,6 +36,7 @@ public class PlayerScript : MonoBehaviour {
     public AudioClip aggroSound;
     public AudioClip deathSound;
     public AudioClip keySound;
+
     public Image fill;
     public Color maxHealthColor;
     public Color minHealthColor;
@@ -90,7 +92,7 @@ public class PlayerScript : MonoBehaviour {
         }
 
         moveVel = moveInput.normalized * Speed;
-        rb.MovePosition(rb.position + moveVel * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + moveVel * Time.deltaTime);
 
 
         //Dash
@@ -104,7 +106,7 @@ public class PlayerScript : MonoBehaviour {
         {
             dashTime = startDashTime;
             source.PlayOneShot(dashSound);
-            rb.MovePosition(rb.position + dashVel * Time.fixedDeltaTime);
+            rb.MovePosition(rb.position + dashVel * Time.deltaTime);
             Instantiate(dashEffect, transform.position, Quaternion.identity);
         }
 

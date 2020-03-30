@@ -10383,7 +10383,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 10
-  Speed: 10
+  Speed: 12
   dashSpeed: 150
   startDashTime: 1
   lerpTimer: 0
