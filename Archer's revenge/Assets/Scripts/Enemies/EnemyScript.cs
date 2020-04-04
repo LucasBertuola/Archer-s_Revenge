@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyScript : MonoBehaviour {
+public class EnemyScript : MonoBehaviour
+{
 
     public float speed;
     public int health = 2;
@@ -28,16 +29,21 @@ public class EnemyScript : MonoBehaviour {
     public AudioClip deathSound;
     public GameObject key;
     //public Transform moveSpot;
+    Rigidbody2D rb;
 
-    void Start ()
+    void Start()
     {
+        rb = GetComponent<Rigidbody2D>();
         //waitTime = startWaitTime;
         playerPos = GameObject.FindGameObjectWithTag("Player").transform;
         animator = GetComponent<Animator>();
         playerScript = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerScript>();
+        GetComponent<Pathfinding.AIDestinationSetter>().target = playerPos;
+  
+
     }
 
-	void Update ()
+    void Update()
     {
         if (playerScript != null)
         {
@@ -64,21 +70,16 @@ public class EnemyScript : MonoBehaviour {
                 transform.localScale = enemyScale;
             }
 
-            RaycastHit2D hit = Physics2D.Raycast(transform.position, transform.up * 3);
 
-            if (hit.collider.tag == "Objects")
-            {
-                transform.Translate(transform.right * Time.deltaTime);
-            }
+            //transform.position = Vector2.MoveTowards(transform.position, playerPos.position, speed * Time.deltaTime);
 
-            transform.position = Vector2.MoveTowards(transform.position, playerPos.position, speed * Time.deltaTime);
 
             //Animation
             if (isAggroed)
-               animator.SetBool("isWalking", true);
+                animator.SetBool("isWalking", true);
             else
                 animator.SetBool("isWalking", false);
-            
+
 
 
             //Die
@@ -87,7 +88,7 @@ public class EnemyScript : MonoBehaviour {
                 Die();
             }
         }
-	}
+    }
 
     public void Die()
     {

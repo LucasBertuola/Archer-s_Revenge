@@ -15,7 +15,7 @@ public class CursorScript : MonoBehaviour {
 
     void Update () {
         joystick = GameManager.Instance.controlindenfy;
-        Debug.Log(joystick);
+       
         if (joystick)
         {
             if(player != null)
