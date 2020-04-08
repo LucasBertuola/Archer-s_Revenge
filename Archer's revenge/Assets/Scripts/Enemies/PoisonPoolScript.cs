@@ -8,12 +8,14 @@ public class PoisonPoolScript : MonoBehaviour {
 
     private PlayerScript playerScript;
 
+   public bool timeever = false;
     void Start () {
         playerScript = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerScript>();
     }
 	
 	void Update () {
-        Destroy(gameObject, 5);
+        if(timeever == false)
+            Destroy(gameObject, 5);
 
 
 	}
