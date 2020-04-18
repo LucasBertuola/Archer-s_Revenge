@@ -11,7 +11,9 @@ public class PlayerScript : MonoBehaviour {
     public float Speed;
     public float dashSpeed;
     private float dashTime;
+    public float durationdash;
     public float startDashTime;
+    private Vector2 dirdash;
     private int index;
     public float lerpTimer;
 
@@ -48,6 +50,10 @@ public class PlayerScript : MonoBehaviour {
     //triggers
     public bool isInvincible = false;
     public bool isPoisoned;
+
+    //Particles
+    public GameObject dashParticle;
+
 
     void Start() {
         animator = GetComponent<Animator>();
@@ -106,7 +112,9 @@ public class PlayerScript : MonoBehaviour {
         {
             dashTime = startDashTime;
             source.PlayOneShot(dashSound);
-            rb.MovePosition(rb.position + dashVel * Time.deltaTime);
+            StartCoroutine("ActionDash", 0.01f);
+            dirdash = 
+                dashVel;
             Instantiate(dashEffect, transform.position, Quaternion.identity);
         }
 
@@ -253,5 +261,22 @@ public class PlayerScript : MonoBehaviour {
             }
 
         }
+    }
+    float deltatimedash;
+    private IEnumerator ActionDash(float waitTime)
+    {
+        isInvincible = true;
+   
+        while (deltatimedash <= durationdash)
+        {
+            deltatimedash += waitTime;
+            Instantiate(dashParticle, transform.position, Quaternion.identity);
+            yield return new WaitForSeconds(waitTime);
+            rb.MovePosition(rb.position + dirdash * Time.deltaTime);
+        }
+
+        deltatimedash = 0;
+        yield return new WaitForSeconds(0f);
+        Invoke("ResetInvulnerability", durationdash);
     }
 }
