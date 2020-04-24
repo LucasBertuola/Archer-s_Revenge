@@ -263,6 +263,8 @@ public class PlayerScript : MonoBehaviour {
         }
     }
     float deltatimedash;
+
+
     private IEnumerator ActionDash(float waitTime)
     {
         isInvincible = true;
@@ -276,7 +278,9 @@ public class PlayerScript : MonoBehaviour {
         }
 
         deltatimedash = 0;
-        yield return new WaitForSeconds(0f);
+     
         Invoke("ResetInvulnerability", durationdash);
     }
+
+  
 }
