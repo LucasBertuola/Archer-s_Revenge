@@ -9,7 +9,7 @@ public class SpecialBoltScript : BoltScript
     public override void Update()
     {
 
-        RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, transform.up, distance, whatIsSolid);
+        RaycastHit2D hitInfo = Physics2D.CircleCast(transform.position, distance, transform.up,distance,whatIsSolid);
         if (hitInfo.collider != null)
         {
             if (hitInfo.collider.gameObject != hited)

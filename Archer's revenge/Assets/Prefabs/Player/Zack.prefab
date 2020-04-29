@@ -5624,6 +5624,7 @@ MonoBehaviour:
   bolt: {fileID: 1625235506270508, guid: 48ffc005072c5f24983bd56faba6d422, type: 3}
   specialBolt: {fileID: 0}
   shootingSoung: {fileID: 8300000, guid: bd3ec215caed33c4dad85403d30e815b, type: 3}
+  shootingSpecialSoung: {fileID: 0}
   boltSpawn: {fileID: 4348494700140968}
   boltCD: 0
   fireDelay: 0.5

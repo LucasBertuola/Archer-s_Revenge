@@ -112,10 +112,9 @@ public class PlayerScript : MonoBehaviour {
         {
             dashTime = startDashTime;
             source.PlayOneShot(dashSound);
-            StartCoroutine("ActionDash", 0.01f);
-            dirdash = 
-                dashVel;
             Instantiate(dashEffect, transform.position, Quaternion.identity);
+            dirdash = dashVel;
+            StartCoroutine("ActionDash", 0.01f);
         }
 
         //Health color
