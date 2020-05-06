@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class PauseMenu : MonoBehaviour
@@ -79,7 +80,7 @@ public class PauseMenu : MonoBehaviour
         }
 
 
-        if (Input.GetButtonDown("Fire2"))
+        if (Input.GetButtonDown("Fire2") && gameIsPaused == true)
         {
             switch (i)
             {
@@ -87,10 +88,13 @@ public class PauseMenu : MonoBehaviour
                     Resume();
                     break;
                 case 1:
+                    QuitScene();
+                    break;
+                case 2:
                     buttons[i].gameObject.GetComponent<ControlsAimButton>().ActiveMouseAim();
                     break;
 
-                case 2:
+                case 3:
                     buttons[i].gameObject.GetComponent<ControlsAimButton>().ActiveJoystickAim();
 
                     break;
@@ -112,5 +116,12 @@ public class PauseMenu : MonoBehaviour
         menuPauseUI.SetActive(true);
         Time.timeScale = 0f;
         gameIsPaused = true;
+    }
+
+    public void QuitScene()
+    {
+        Time.timeScale = 1f;
+        gameIsPaused = false;
+        SceneManager.LoadScene("Menu");
     }
 }

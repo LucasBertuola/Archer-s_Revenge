@@ -30,6 +30,8 @@ public class CursorScript : MonoBehaviour {
                     last = new Vector3(0, 0, Mathf.Atan2(Input.GetAxis("Horizontal2"), Input.GetAxis("Vertical2")) * 180 / Mathf.PI);
 
                 transform.eulerAngles = last;
+
+                Debug.Log("Oi");
             }
          
         }

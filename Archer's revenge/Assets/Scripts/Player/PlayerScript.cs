@@ -112,10 +112,9 @@ public class PlayerScript : MonoBehaviour {
         {
             dashTime = startDashTime;
             source.PlayOneShot(dashSound);
-            StartCoroutine("ActionDash", 0.01f);
-            dirdash = 
-                dashVel;
             Instantiate(dashEffect, transform.position, Quaternion.identity);
+            dirdash = dashVel;
+            StartCoroutine("ActionDash", 0.01f);
         }
 
         //Health color
@@ -263,6 +262,8 @@ public class PlayerScript : MonoBehaviour {
         }
     }
     float deltatimedash;
+
+
     private IEnumerator ActionDash(float waitTime)
     {
         isInvincible = true;
@@ -276,7 +277,9 @@ public class PlayerScript : MonoBehaviour {
         }
 
         deltatimedash = 0;
-        yield return new WaitForSeconds(0f);
+     
         Invoke("ResetInvulnerability", durationdash);
     }
+
+  
 }

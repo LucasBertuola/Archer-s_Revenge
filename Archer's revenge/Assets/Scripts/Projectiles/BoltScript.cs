@@ -18,8 +18,10 @@ public class BoltScript : MonoBehaviour {
         Invoke("DestroyProjectile", lifeTime);
     }
 
-    void Update()
+   public virtual void Update()
     {
+
+
         RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, transform.up, distance, whatIsSolid);
         if (hitInfo.collider != null)
         {
@@ -45,7 +47,7 @@ public class BoltScript : MonoBehaviour {
         transform.Translate(Vector2.right * boltSpeed * Time.deltaTime);
     }
 
-    void DestroyProjectile()
+   public  void DestroyProjectile()
     {
         AudioSource.PlayClipAtPoint(impactSound, transform.position);
         Instantiate(boltEffect, transform.position, Quaternion.identity);
